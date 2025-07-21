@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bruno",
+    "age": "2",
+    "breed": "Husky",
+    "imageUrl": "https://kuttya1-4cl3-project.s3.us-east-2.amazonaws.com/pets/1753063665909-hus.jpg"
+  },
+  {
+    "name": "Toby",
+    "age": "1",
+    "breed": "Labrador",
+    "imageUrl": "https://kuttya1-4cl3-project.s3.us-east-2.amazonaws.com/pets/1753063739033-Lab.jpg"
+  }
+]
